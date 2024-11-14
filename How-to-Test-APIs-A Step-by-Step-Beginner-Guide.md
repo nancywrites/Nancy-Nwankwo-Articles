@@ -109,7 +109,7 @@ You should receive a response with a list of all books in the database.
 ![response to the request](./images/no11.jpeg)
 
 - To save the request, click **Save**.
-  ![save the request ](./images/no11a.jpeg)
+  ![save the request ](./images/no11a.jpg)
 
   
 - Name your request and the collection.
